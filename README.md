@@ -3,7 +3,7 @@
 
 - 🔭 Hoje busco trabalhar como desenvolvedor Junior.
 - 🌱 Estudando analise e desenvolvimento de sistemas.
-- 🤔 Procuro ajuda com Django.
+- 🤔 Busco aprender mais sobre Front-end e me aprimorar em Back-end.
 
 
 <div align="center">

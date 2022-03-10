@@ -1,4 +1,4 @@
-## Olá, eu sou o Bruno Dubal! 
+## Olá, meu nome é Bruno Dubal! 
 
 
 - 🔭 Hoje busco trabalhar como desenvolvedor Junior.

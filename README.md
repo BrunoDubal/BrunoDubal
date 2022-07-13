@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje busco trabalhar como desenvolvedor Junior.
-- 🌱 Estudando analise e desenvolvimento de sistemas.
-- 🤔 Busco aprender mais sobre Front-end e me aprimorar em Back-end.
+- 🌱 Estudando Front-end.
+- 🤔 Busco aprender mais sobre Front-end, como React, JavaScript, TypeScript e angular.
 
 
 <div align="center">
